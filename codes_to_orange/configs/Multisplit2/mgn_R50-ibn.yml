@@ -1,0 +1,11 @@
+_BASE_: ../Base-MGN.yml
+
+MODEL:
+  BACKBONE:
+    WITH_IBN: True
+
+DATASETS:
+  NAMES: ("Multisplit2",)
+  TESTS: ("Multisplit2",)
+
+OUTPUT_DIR: logs/multisplit2/mgn_R50-ibn

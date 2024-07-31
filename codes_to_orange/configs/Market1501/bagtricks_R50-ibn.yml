@@ -1,0 +1,13 @@
+_BASE_: ../Base-bagtricks.yml
+
+MODEL:
+  BACKBONE:
+    WITH_IBN: True
+
+DATASETS:
+  NAMES: ("Market1501",)
+  #TESTS: ("DukeMTMC",) #目前没开出来区别，回头研究一下
+
+  TESTS: ("DukeMTMC",)
+
+OUTPUT_DIR: logs/market1501/bagtricks_R50-ibn

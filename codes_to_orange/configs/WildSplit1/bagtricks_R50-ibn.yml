@@ -1,0 +1,11 @@
+_BASE_: ../Base-bagtricks.yml
+
+MODEL:
+  BACKBONE:
+    WITH_IBN: True
+
+DATASETS:
+  NAMES: ("WildSplit1",)
+  TESTS: ("WildSplit1",)
+
+OUTPUT_DIR: logs/wildsplit1/bagtricks_R50-ibn

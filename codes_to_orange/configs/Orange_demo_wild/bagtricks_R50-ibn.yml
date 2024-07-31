@@ -1,0 +1,11 @@
+_BASE_: ../Base-bagtricks.yml
+
+MODEL:
+  BACKBONE:
+    WITH_IBN: True
+
+DATASETS:
+  NAMES: ("Wild",)
+  TESTS: ("Wild",)
+
+OUTPUT_DIR: logs/wild/bagtricks_R50-ibn

@@ -1,0 +1,13 @@
+_BASE_: ../Base-MGN.yml
+
+MODEL:
+  BACKBONE:
+    WITH_IBN: True
+
+DATASETS:
+  NAMES: ("WildDemo",)
+  TESTS: ("WildDemo",)
+
+# OUTPUT_DIR: logs/wild/mgn_R50-ibn
+OUTPUT_DIR: logs/wild_demo/mgn_R50-ibn
+

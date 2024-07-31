@@ -1,0 +1,111 @@
+2024-04-08 11:33:33,937 [INFO] training started at 2024-04-08 11:33:17
+2024-04-08 11:33:43,094 [INFO] Epoch 0
+2024-04-08 11:54:50,922 [INFO] time comsumed: 1267.8278789520264
+2024-04-08 11:54:50,925 [INFO] model0 is saved
+2024-04-08 11:54:50,926 [INFO] model1 is saved
+2024-04-08 11:54:50,928 [INFO] model2 is saved
+2024-04-08 11:54:50,929 [INFO] model3 is saved
+2024-04-08 11:54:50,931 [INFO] model4 is saved
+2024-04-08 11:54:50,932 [INFO] model5 is saved
+2024-04-08 11:54:50,934 [INFO] model6 is saved
+2024-04-08 11:54:50,935 [INFO] model7 is saved
+2024-04-08 11:54:50,935 [INFO] Epoch 0 finished
+2024-04-08 11:54:50,936 [INFO] Epoch 1
+2024-04-08 12:16:54,891 [INFO] time comsumed: 1323.9554314613342
+2024-04-08 12:16:54,894 [INFO] model0 is saved
+2024-04-08 12:16:54,895 [INFO] model1 is saved
+2024-04-08 12:16:54,897 [INFO] model2 is saved
+2024-04-08 12:16:54,899 [INFO] model3 is saved
+2024-04-08 12:16:54,900 [INFO] model4 is saved
+2024-04-08 12:16:54,902 [INFO] model5 is saved
+2024-04-08 12:16:54,904 [INFO] model6 is saved
+2024-04-08 12:16:54,905 [INFO] model7 is saved
+2024-04-08 12:16:54,905 [INFO] Epoch 1 finished
+2024-04-08 12:16:54,905 [INFO] Epoch 2
+2024-04-08 12:50:30,583 [INFO] time comsumed: 2015.6772048473358
+2024-04-08 12:50:30,585 [INFO] model0 is saved
+2024-04-08 12:50:30,587 [INFO] model1 is saved
+2024-04-08 12:50:30,588 [INFO] model2 is saved
+2024-04-08 12:50:30,590 [INFO] model3 is saved
+2024-04-08 12:50:30,591 [INFO] model4 is saved
+2024-04-08 12:50:30,593 [INFO] model5 is saved
+2024-04-08 12:50:30,595 [INFO] model6 is saved
+2024-04-08 12:50:30,596 [INFO] model7 is saved
+2024-04-08 12:50:30,596 [INFO] Epoch 2 finished
+2024-04-08 12:50:30,596 [INFO] Epoch 3
+2024-04-08 13:27:40,524 [INFO] time comsumed: 2229.9275782108307
+2024-04-08 13:27:40,528 [INFO] model0 is saved
+2024-04-08 13:27:40,531 [INFO] model1 is saved
+2024-04-08 13:27:40,533 [INFO] model2 is saved
+2024-04-08 13:27:40,535 [INFO] model3 is saved
+2024-04-08 13:27:40,537 [INFO] model4 is saved
+2024-04-08 13:27:40,538 [INFO] model5 is saved
+2024-04-08 13:27:40,540 [INFO] model6 is saved
+2024-04-08 13:27:40,542 [INFO] model7 is saved
+2024-04-08 13:27:40,542 [INFO] Epoch 3 finished
+2024-04-08 13:27:40,542 [INFO] Epoch 4
+2024-04-08 13:59:48,503 [INFO] time comsumed: 1927.9614799022675
+2024-04-08 13:59:48,507 [INFO] model0 is saved
+2024-04-08 13:59:48,510 [INFO] model1 is saved
+2024-04-08 13:59:48,513 [INFO] model2 is saved
+2024-04-08 13:59:48,514 [INFO] model3 is saved
+2024-04-08 13:59:48,516 [INFO] model4 is saved
+2024-04-08 13:59:48,517 [INFO] model5 is saved
+2024-04-08 13:59:48,519 [INFO] model6 is saved
+2024-04-08 13:59:48,520 [INFO] model7 is saved
+2024-04-08 13:59:48,520 [INFO] Epoch 4 finished
+2024-04-08 13:59:48,521 [INFO] Epoch 5
+2024-04-08 14:15:34,008 [INFO] time comsumed: 945.4873375892639
+2024-04-08 14:15:34,012 [INFO] model0 is saved
+2024-04-08 14:15:34,015 [INFO] model1 is saved
+2024-04-08 14:15:34,018 [INFO] model2 is saved
+2024-04-08 14:15:34,019 [INFO] model3 is saved
+2024-04-08 14:15:34,021 [INFO] model4 is saved
+2024-04-08 14:15:34,022 [INFO] model5 is saved
+2024-04-08 14:15:34,023 [INFO] model6 is saved
+2024-04-08 14:15:34,025 [INFO] model7 is saved
+2024-04-08 14:15:34,025 [INFO] Epoch 5 finished
+2024-04-08 14:15:34,025 [INFO] Epoch 6
+2024-04-08 14:31:24,705 [INFO] time comsumed: 950.6799454689026
+2024-04-08 14:31:24,709 [INFO] model0 is saved
+2024-04-08 14:31:24,712 [INFO] model1 is saved
+2024-04-08 14:31:24,714 [INFO] model2 is saved
+2024-04-08 14:31:24,715 [INFO] model3 is saved
+2024-04-08 14:31:24,717 [INFO] model4 is saved
+2024-04-08 14:31:24,718 [INFO] model5 is saved
+2024-04-08 14:31:24,719 [INFO] model6 is saved
+2024-04-08 14:31:24,721 [INFO] model7 is saved
+2024-04-08 14:31:24,721 [INFO] Epoch 6 finished
+2024-04-08 14:31:24,721 [INFO] Epoch 7
+2024-04-08 14:47:09,060 [INFO] time comsumed: 944.3391909599304
+2024-04-08 14:47:09,065 [INFO] model0 is saved
+2024-04-08 14:47:09,068 [INFO] model1 is saved
+2024-04-08 14:47:09,070 [INFO] model2 is saved
+2024-04-08 14:47:09,071 [INFO] model3 is saved
+2024-04-08 14:47:09,073 [INFO] model4 is saved
+2024-04-08 14:47:09,074 [INFO] model5 is saved
+2024-04-08 14:47:09,076 [INFO] model6 is saved
+2024-04-08 14:47:09,077 [INFO] model7 is saved
+2024-04-08 14:47:09,077 [INFO] Epoch 7 finished
+2024-04-08 14:47:09,077 [INFO] Epoch 8
+2024-04-08 15:03:03,895 [INFO] time comsumed: 954.8179378509521
+2024-04-08 15:03:03,899 [INFO] model0 is saved
+2024-04-08 15:03:03,902 [INFO] model1 is saved
+2024-04-08 15:03:03,905 [INFO] model2 is saved
+2024-04-08 15:03:03,907 [INFO] model3 is saved
+2024-04-08 15:03:03,908 [INFO] model4 is saved
+2024-04-08 15:03:03,910 [INFO] model5 is saved
+2024-04-08 15:03:03,912 [INFO] model6 is saved
+2024-04-08 15:03:03,913 [INFO] model7 is saved
+2024-04-08 15:03:03,913 [INFO] Epoch 8 finished
+2024-04-08 15:03:03,913 [INFO] Epoch 9
+2024-04-08 15:18:57,660 [INFO] time comsumed: 953.7463343143463
+2024-04-08 15:18:57,664 [INFO] model0 is saved
+2024-04-08 15:18:57,667 [INFO] model1 is saved
+2024-04-08 15:18:57,669 [INFO] model2 is saved
+2024-04-08 15:18:57,671 [INFO] model3 is saved
+2024-04-08 15:18:57,672 [INFO] model4 is saved
+2024-04-08 15:18:57,674 [INFO] model5 is saved
+2024-04-08 15:18:57,675 [INFO] model6 is saved
+2024-04-08 15:18:57,677 [INFO] model7 is saved
+2024-04-08 15:18:57,677 [INFO] Epoch 9 finished

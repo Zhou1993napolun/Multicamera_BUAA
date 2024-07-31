@@ -1,0 +1,11 @@
+_BASE_: ../Base-bagtricks.yml
+
+MODEL:
+  BACKBONE:
+    WITH_IBN: True
+
+DATASETS:
+  NAMES: ("Multisplit6",)
+  TESTS: ("Multisplit6",)
+
+OUTPUT_DIR: logs/multisplit6/bagtricks_R50-ibn

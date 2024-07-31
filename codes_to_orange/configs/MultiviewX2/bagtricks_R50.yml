@@ -1,0 +1,7 @@
+_BASE_: ../Base-bagtricks.yml
+
+DATASETS:
+  NAMES: ("MultiviewX2",)
+  TESTS: ("MultiviewX2",)
+
+OUTPUT_DIR: logs/multiviewx2/bagtricks_R50

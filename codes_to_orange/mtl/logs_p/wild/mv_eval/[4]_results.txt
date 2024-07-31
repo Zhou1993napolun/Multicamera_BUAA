@@ -1,0 +1,36 @@
+by distance
+4 th camera
+minp: 54.84
+mAP: 67.33
+Rank- 1 : 73.81
+Rank- 5 : 89.68
+Rank- 10 : 94.44
+by vote
+4 th camera
+minp: 54.84
+mAP: 67.33
+Rank- 1 : 73.81
+Rank- 5 : 89.68
+Rank- 10 : 94.44
+ori
+4 th camera
+minp: 54.84
+mAP: 67.33
+Rank- 1 : 73.81
+Rank- 5 : 89.68
+Rank- 10 : 94.44
+---------
+starting evaluate by group
+by distance
+minp: 54.84
+mAP: 67.33
+Rank- 1 : 73.81
+Rank- 5 : 89.68
+Rank- 10 : 94.44
+by vote
+minp: 54.84
+mAP: 67.33
+Rank- 1 : 73.81
+Rank- 5 : 89.68
+Rank- 10 : 94.44
+before end

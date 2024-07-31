@@ -1,0 +1,46 @@
+by distance
+1 th camera
+mAP: 88.89
+Rank- 1 : 91.95
+Rank- 5 : 98.22
+Rank- 10 : 98.82
+6 th camera
+mAP: 88.68
+Rank- 1 : 91.79
+Rank- 5 : 98.19
+Rank- 10 : 98.79
+by vote
+1 th camera
+mAP: 85.70
+Rank- 1 : 87.71
+Rank- 5 : 97.49
+Rank- 10 : 98.33
+6 th camera
+mAP: 85.42
+Rank- 1 : 87.45
+Rank- 5 : 97.44
+Rank- 10 : 98.29
+ori
+1 th camera
+mAP: 89.54
+Rank- 1 : 91.94
+Rank- 5 : 97.51
+Rank- 10 : 98.93
+6 th camera
+mAP: 79.72
+Rank- 1 : 82.63
+Rank- 5 : 95.41
+Rank- 10 : 96.90
+---------
+starting evaluate by group
+by distance
+mAP: 88.89
+Rank- 1 : 91.95
+Rank- 5 : 98.22
+Rank- 10 : 98.82
+by vote
+mAP: 85.70
+Rank- 1 : 87.71
+Rank- 5 : 97.49
+Rank- 10 : 98.33
+before end

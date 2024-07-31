@@ -1,0 +1,7 @@
+_BASE_: ../Base-bagtricks.yml
+
+DATASETS:
+  NAMES: ("Wild",)
+  TESTS: ("Wild",)
+#
+OUTPUT_DIR: logs/wild/bagtricks_R50

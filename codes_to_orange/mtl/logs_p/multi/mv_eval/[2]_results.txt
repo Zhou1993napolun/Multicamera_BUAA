@@ -1,0 +1,36 @@
+by distance
+2 th camera
+minp: 73.92
+mAP: 89.56
+Rank- 1 : 91.97
+Rank- 5 : 95.81
+Rank- 10 : 96.75
+by vote
+2 th camera
+minp: 73.92
+mAP: 89.56
+Rank- 1 : 91.97
+Rank- 5 : 95.81
+Rank- 10 : 96.75
+ori
+2 th camera
+minp: 73.92
+mAP: 89.56
+Rank- 1 : 91.97
+Rank- 5 : 95.81
+Rank- 10 : 96.75
+---------
+starting evaluate by group
+by distance
+minp: 73.92
+mAP: 89.56
+Rank- 1 : 91.97
+Rank- 5 : 95.81
+Rank- 10 : 96.75
+by vote
+minp: 73.92
+mAP: 89.56
+Rank- 1 : 91.97
+Rank- 5 : 95.81
+Rank- 10 : 96.75
+before end

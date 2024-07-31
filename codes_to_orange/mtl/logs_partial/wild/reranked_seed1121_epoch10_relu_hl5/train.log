@@ -1,0 +1,29 @@
+2024-04-08 11:30:56,011 [INFO] training started at 2024-04-08 11:30:39
+2024-04-08 11:31:05,318 [INFO] Epoch 0
+2024-04-08 11:32:55,428 [ERROR] Uncaught exception
+Traceback (most recent call last):
+  File "mtl/train_partial.py", line 319, in <module>
+    model_train(n_cam, epochs, models, fcs, train_dataloader, optimizers, save_path, num_classes_dict, device)
+  File "mtl/train_partial.py", line 121, in model_train
+    features, target = model.forward_mmoe(img, target)
+  File "/data01/zhangleiting/_codes/fast-reid/./fastreid/modeling/meta_arch/mgn.py", line 252, in forward_mmoe
+    features = self.backbone(images)  # (bs, 2048, 16, 8)
+  File "/data01/zhangleiting/anaconda3/envs/fast/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1110, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/data01/zhangleiting/anaconda3/envs/fast/lib/python3.8/site-packages/torch/nn/modules/container.py", line 141, in forward
+    input = module(input)
+  File "/data01/zhangleiting/anaconda3/envs/fast/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1110, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/data01/zhangleiting/anaconda3/envs/fast/lib/python3.8/site-packages/torch/nn/modules/container.py", line 141, in forward
+    input = module(input)
+  File "/data01/zhangleiting/anaconda3/envs/fast/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1110, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/data01/zhangleiting/_codes/fast-reid/./fastreid/modeling/backbones/resnet.py", line 110, in forward
+    out = self.conv2(out)
+  File "/data01/zhangleiting/anaconda3/envs/fast/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1110, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/data01/zhangleiting/anaconda3/envs/fast/lib/python3.8/site-packages/torch/nn/modules/conv.py", line 447, in forward
+    return self._conv_forward(input, self.weight, self.bias)
+  File "/data01/zhangleiting/anaconda3/envs/fast/lib/python3.8/site-packages/torch/nn/modules/conv.py", line 443, in _conv_forward
+    return F.conv2d(input, weight, bias, self.stride,
+KeyboardInterrupt

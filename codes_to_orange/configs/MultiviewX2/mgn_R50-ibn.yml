@@ -1,0 +1,11 @@
+_BASE_: ../Base-MGN.yml
+
+MODEL:
+  BACKBONE:
+    WITH_IBN: True
+
+DATASETS:
+  NAMES: ("MultiviewX2",)
+  TESTS: ("MultiviewX2",)
+
+OUTPUT_DIR: logs/multiviewx2/mgn_R50-ibn

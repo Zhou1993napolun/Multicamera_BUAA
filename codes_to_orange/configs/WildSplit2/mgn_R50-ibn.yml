@@ -1,0 +1,11 @@
+_BASE_: ../Base-MGN.yml
+
+MODEL:
+  BACKBONE:
+    WITH_IBN: True
+
+DATASETS:
+  NAMES: ("WildSplit2",)
+  TESTS: ("WildSplit2",)
+
+OUTPUT_DIR: logs/wildsplit2/mgn_R50-ibn

@@ -1,0 +1,106 @@
+by distance
+1 th camera
+mAP: 89.94
+Rank- 1 : 75.00
+Rank- 5 : 100.00
+Rank- 10 : 100.00
+2 th camera
+mAP: 89.94
+Rank- 1 : 75.00
+Rank- 5 : 100.00
+Rank- 10 : 100.00
+3 th camera
+mAP: 89.94
+Rank- 1 : 75.00
+Rank- 5 : 100.00
+Rank- 10 : 100.00
+5 th camera
+mAP: 89.94
+Rank- 1 : 75.00
+Rank- 5 : 100.00
+Rank- 10 : 100.00
+6 th camera
+mAP: 89.94
+Rank- 1 : 75.00
+Rank- 5 : 100.00
+Rank- 10 : 100.00
+7 th camera
+mAP: 89.94
+Rank- 1 : 75.00
+Rank- 5 : 100.00
+Rank- 10 : 100.00
+by vote
+1 th camera
+mAP: 100.00
+Rank- 1 : 100.00
+Rank- 5 : 100.00
+Rank- 10 : 100.00
+2 th camera
+mAP: 100.00
+Rank- 1 : 100.00
+Rank- 5 : 100.00
+Rank- 10 : 100.00
+3 th camera
+mAP: 100.00
+Rank- 1 : 100.00
+Rank- 5 : 100.00
+Rank- 10 : 100.00
+5 th camera
+mAP: 100.00
+Rank- 1 : 100.00
+Rank- 5 : 100.00
+Rank- 10 : 100.00
+6 th camera
+mAP: 100.00
+Rank- 1 : 100.00
+Rank- 5 : 100.00
+Rank- 10 : 100.00
+7 th camera
+mAP: 100.00
+Rank- 1 : 100.00
+Rank- 5 : 100.00
+Rank- 10 : 100.00
+ori
+1 th camera
+mAP: 80.91
+Rank- 1 : 75.00
+Rank- 5 : 75.00
+Rank- 10 : 75.00
+2 th camera
+mAP: 78.19
+Rank- 1 : 75.00
+Rank- 5 : 100.00
+Rank- 10 : 100.00
+3 th camera
+mAP: 100.00
+Rank- 1 : 100.00
+Rank- 5 : 100.00
+Rank- 10 : 100.00
+5 th camera
+mAP: 100.00
+Rank- 1 : 100.00
+Rank- 5 : 100.00
+Rank- 10 : 100.00
+6 th camera
+mAP: 99.12
+Rank- 1 : 100.00
+Rank- 5 : 100.00
+Rank- 10 : 100.00
+7 th camera
+mAP: 100.00
+Rank- 1 : 100.00
+Rank- 5 : 100.00
+Rank- 10 : 100.00
+---------
+starting evaluate by group
+by distance
+mAP: 89.94
+Rank- 1 : 75.00
+Rank- 5 : 100.00
+Rank- 10 : 100.00
+by vote
+mAP: 100.00
+Rank- 1 : 100.00
+Rank- 5 : 100.00
+Rank- 10 : 100.00
+before end
